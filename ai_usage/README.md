@@ -1,7 +1,9 @@
 # AI and research usage
 
 This file lists every tool and source I used for this project and what I used each one for.
-It takes the place of raw chat logs.
+I am not including the raw chat logs: the work was spread over many separate threads in both
+ChatGPT and Claude, with no single thread covering the project, so a summary is the honest
+way to show what was used and for what.
 
 ## AI tools
 
